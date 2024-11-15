@@ -4,7 +4,7 @@
 
 - **GEO (Geostationary Orbit)**:
   - Satellites in geostationary orbit are positioned about **35,786 kilometers (22,236 miles)** above the Earth’s equator.
-  - They appear stationary relative to a specific point on the Earth’s surface, orbiting at the same rotational speed as Earth.
+  - They appear stationary relative to a specific point on the Earth’s surface, orbiting at the same rotational speed as Earth. ( it means that these satellites move in a way that keeps them directly above the same location on Earth all the time. This happens because a geostationary satellite orbits Earth at the same rotational speed as Earth itself, which is once every 24 hours.)
   - **Uses**: Ideal for continuous coverage over a specific area, which is particularly useful for weather monitoring, television broadcasting, and certain types of communication networks.
 
 - **LEO (Low Earth Orbit)**:
@@ -39,7 +39,7 @@
   - The operational lifetime of a GEO satellite is usually longer (about 10-15 years or more).
 
 - **LEO**:
-  - LEO satellites are **less expensive individually** and easier to launch at lower altitudes, but a large constellation increases the overall project cost.
+  - LEO satellites are **less expensive individually** and easier to launch at lower altitudes, but a large constellation (A large constellation of satellites refers to a system made up of many satellites working together in orbit to provide continuous, comprehensive coverage of the Earth.) increases the overall project cost.
   - LEO satellites generally have a shorter lifespan (around 5-7 years) and require more frequent replacements.
 
 **5. Applications**
